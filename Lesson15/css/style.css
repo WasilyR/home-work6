@@ -1,0 +1,9 @@
+.text--bold {
+	color: coral;
+}
+.child {
+	color: blue;
+}
+a[href*="#blog"] {
+	color: brown;
+}
